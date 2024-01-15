@@ -18,15 +18,19 @@ int loose_screen(SDL_Renderer *renderer, struct Window my_window, struct Player 
     SDL_Color color_menu = {255, 0, 0};
     SDL_Surface *surface = TTF_RenderText_Blended(font, "Vous avez perdu...", color_menu);
     SDL_Texture *texture_text_loose = SDL_CreateTextureFromSurface(renderer, surface);
+    SDL_FreeSurface(surface);
 
     surface = IMG_Load("..\\assets\\playAgainButton.png");
     SDL_Texture *texture_play_again_button = SDL_CreateTextureFromSurface(renderer,surface);
+    SDL_FreeSurface(surface);
 
     surface = IMG_Load("..\\assets\\retour_menu.png");
     SDL_Texture *texture_retour_menu_button = SDL_CreateTextureFromSurface(renderer,surface);
+    SDL_FreeSurface(surface);
 
     surface = IMG_Load("..\\assets\\exit.png");
     SDL_Texture *texture_exit_button = SDL_CreateTextureFromSurface(renderer,surface);
+    SDL_FreeSurface(surface);
 
     bool menu = true;
 

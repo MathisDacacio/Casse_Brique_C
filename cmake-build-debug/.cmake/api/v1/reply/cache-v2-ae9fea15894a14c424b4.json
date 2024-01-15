@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/mathi/Cours ENIGMA/C/Dacacio_Mathis_Casse_Brique/cmake-build-debug"
+			"value" : "c:/Users/mathi/Cours ENIGMA/C/Dacacio_Mathis_Casse_Brique/Dacacio_Mathis_Casse_Brique/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -431,7 +431,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/mathi/Cours ENIGMA/C/Dacacio_Mathis_Casse_Brique/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/mathi/Cours ENIGMA/C/Dacacio_Mathis_Casse_Brique/Dacacio_Mathis_Casse_Brique/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -515,7 +515,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/mathi/Cours ENIGMA/C/Dacacio_Mathis_Casse_Brique"
+			"value" : "C:/Users/mathi/Cours ENIGMA/C/Dacacio_Mathis_Casse_Brique/Dacacio_Mathis_Casse_Brique"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1131,7 +1131,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/mathi/Cours ENIGMA/C/Dacacio_Mathis_Casse_Brique/cmake-build-debug"
+			"value" : "C:/Users/mathi/Cours ENIGMA/C/Dacacio_Mathis_Casse_Brique/Dacacio_Mathis_Casse_Brique/cmake-build-debug"
 		},
 		{
 			"name" : "Dacacio_Mathis_Casse_Brique_IS_TOP_LEVEL",
@@ -1155,7 +1155,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/mathi/Cours ENIGMA/C/Dacacio_Mathis_Casse_Brique"
+			"value" : "C:/Users/mathi/Cours ENIGMA/C/Dacacio_Mathis_Casse_Brique/Dacacio_Mathis_Casse_Brique"
 		},
 		{
 			"name" : "FIND_PACKAGE_MESSAGE_DETAILS_SDL2",
@@ -1295,7 +1295,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "mingw32;-mwindows;C:/Users/mathi/Cours ENIGMA/C/SDL2-devel-2.28.5-mingw/SDL2-2.28.5/x86_64-w64-mingw32/lib/libSDL2main.a;mingw32;-mwindows;C:/Users/mathi/Cours ENIGMA/C/SDL2-devel-2.28.5-mingw/SDL2-2.28.5/x86_64-w64-mingw32/lib/libSDL2main.a;mingw32;-mwindows;C:/Users/mathi/Cours ENIGMA/C/SDL2-devel-2.28.5-mingw/SDL2-2.28.5/x86_64-w64-mingw32/lib/libSDL2main.a;mingw32;-mwindows;C:/Users/mathi/Cours ENIGMA/C/SDL2-devel-2.28.5-mingw/SDL2-2.28.5/x86_64-w64-mingw32/lib/libSDL2main.a;mingw32;-mwindows;C:/Users/mathi/Cours ENIGMA/C/SDL2-devel-2.28.5-mingw/SDL2-2.28.5/x86_64-w64-mingw32/lib/libSDL2main.a;mingw32;-mwindows;C:/Users/mathi/Cours ENIGMA/C/SDL2-devel-2.28.5-mingw/SDL2-2.28.5/x86_64-w64-mingw32/lib/libSDL2main.a;mingw32;-mwindows;C:/Users/mathi/Cours ENIGMA/C/SDL2-devel-2.28.5-mingw/SDL2-2.28.5/x86_64-w64-mingw32/lib/libSDL2main.a;mingw32;-mwindows;C:/Users/mathi/Cours ENIGMA/C/SDL2-devel-2.28.5-mingw/SDL2-2.28.5/x86_64-w64-mingw32/lib/libSDL2main.a;mingw32;-mwindows;C:/Users/mathi/Cours ENIGMA/C/SDL2-devel-2.28.5-mingw/SDL2-2.28.5/x86_64-w64-mingw32/lib/libSDL2main.a;mingw32;-mwindows;C:/Users/mathi/Cours ENIGMA/C/SDL2-devel-2.28.5-mingw/SDL2-2.28.5/x86_64-w64-mingw32/lib/libSDL2main.a;mingw32;-mwindows;C:/Users/mathi/Cours ENIGMA/C/SDL2-devel-2.28.5-mingw/SDL2-2.28.5/x86_64-w64-mingw32/lib/libSDL2main.a;mingw32;-mwindows;C:/Users/mathi/Cours ENIGMA/C/SDL2-devel-2.28.5-mingw/SDL2-2.28.5/x86_64-w64-mingw32/lib/libSDL2main.a;mingw32;-mwindows;C:/Users/mathi/Cours ENIGMA/C/SDL2-devel-2.28.5-mingw/SDL2-2.28.5/x86_64-w64-mingw32/lib/libSDL2main.a;mingw32;-mwindows;C:/Users/mathi/Cours ENIGMA/C/SDL2-devel-2.28.5-mingw/SDL2-2.28.5/x86_64-w64-mingw32/lib/libSDL2main.a;mingw32;-mwindows;C:/Users/mathi/Cours ENIGMA/C/SDL2-devel-2.28.5-mingw/SDL2-2.28.5/x86_64-w64-mingw32/lib/libSDL2main.a;mingw32;-mwindows;C:/Users/mathi/Cours ENIGMA/C/SDL2-devel-2.28.5-mingw/SDL2-2.28.5/x86_64-w64-mingw32/lib/libSDL2main.a;mingw32;-mwindows;C:/Users/mathi/Cours ENIGMA/C/SDL2-devel-2.28.5-mingw/SDL2-2.28.5/x86_64-w64-mingw32/lib/libSDL2main.a;mingw32;-mwindows;C:/Users/mathi/Cours ENIGMA/C/SDL2-devel-2.28.5-mingw/SDL2-2.28.5/x86_64-w64-mingw32/lib/libSDL2main.a;mingw32;-mwindows;C:/Users/mathi/Cours ENIGMA/C/SDL2-devel-2.28.5-mingw/SDL2-2.28.5/x86_64-w64-mingw32/lib/libSDL2main.a;mingw32;-mwindows;C:/Users/mathi/Cours ENIGMA/C/SDL2-devel-2.28.5-mingw/SDL2-2.28.5/x86_64-w64-mingw32/lib/libSDL2main.a;mingw32;-mwindows;C:/Users/mathi/Cours ENIGMA/C/SDL2-devel-2.28.5-mingw/SDL2-2.28.5/x86_64-w64-mingw32/lib/libSDL2main.a;mingw32;-mwindows;C:/Users/mathi/Cours ENIGMA/C/SDL2-devel-2.28.5-mingw/SDL2-2.28.5/x86_64-w64-mingw32/lib/libSDL2main.a;mingw32;-mwindows;C:/Users/mathi/Cours ENIGMA/C/SDL2-devel-2.28.5-mingw/SDL2-2.28.5/x86_64-w64-mingw32/lib/libSDL2main.a;mingw32;-mwindows;C:/Users/mathi/Cours ENIGMA/C/SDL2-devel-2.28.5-mingw/SDL2-2.28.5/x86_64-w64-mingw32/lib/libSDL2main.a;mingw32;-mwindows;C:/Users/mathi/Cours ENIGMA/C/SDL2-devel-2.28.5-mingw/SDL2-2.28.5/x86_64-w64-mingw32/lib/libSDL2main.a;mingw32;-mwindows;C:/Users/mathi/Cours ENIGMA/C/SDL2-devel-2.28.5-mingw/SDL2-2.28.5/x86_64-w64-mingw32/lib/libSDL2main.a;mingw32;-mwindows;C:/Users/mathi/Cours ENIGMA/C/SDL2-devel-2.28.5-mingw/SDL2-2.28.5/x86_64-w64-mingw32/lib/libSDL2main.a;mingw32;-mwindows;C:/Users/mathi/Cours ENIGMA/C/SDL2-devel-2.28.5-mingw/SDL2-2.28.5/x86_64-w64-mingw32/lib/libSDL2main.a;mingw32;-mwindows;C:/Users/mathi/Cours ENIGMA/C/SDL2-devel-2.28.5-mingw/SDL2-2.28.5/x86_64-w64-mingw32/lib/libSDL2main.a;mingw32;-mwindows;C:/Users/mathi/Cours ENIGMA/C/SDL2-devel-2.28.5-mingw/SDL2-2.28.5/x86_64-w64-mingw32/lib/libSDL2main.a;mingw32;-mwindows;C:/Users/mathi/Cours ENIGMA/C/SDL2-devel-2.28.5-mingw/SDL2-2.28.5/x86_64-w64-mingw32/lib/libSDL2main.a;C:/Users/mathi/Cours ENIGMA/C/SDL2-devel-2.28.5-mingw/SDL2-2.28.5/x86_64-w64-mingw32/lib/libSDL2.dll.a"
+			"value" : "mingw32;-mwindows;C:/Users/mathi/Cours ENIGMA/C/SDL2-devel-2.28.5-mingw/SDL2-2.28.5/x86_64-w64-mingw32/lib/libSDL2main.a;C:/Users/mathi/Cours ENIGMA/C/SDL2-devel-2.28.5-mingw/SDL2-2.28.5/x86_64-w64-mingw32/lib/libSDL2.dll.a"
 		},
 		{
 			"name" : "SDL2_TTF_INCLUDE_DIR",

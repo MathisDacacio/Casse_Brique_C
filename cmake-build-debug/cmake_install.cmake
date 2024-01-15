@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/mathi/Cours ENIGMA/C/Dacacio_Mathis_Casse_Brique
+# Install script for directory: C:/Users/mathi/Cours ENIGMA/C/Dacacio_Mathis_Casse_Brique/Dacacio_Mathis_Casse_Brique
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/mathi/Cours ENIGMA/C/Dacacio_Mathis_Casse_Brique/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/mathi/Cours ENIGMA/C/Dacacio_Mathis_Casse_Brique/Dacacio_Mathis_Casse_Brique/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

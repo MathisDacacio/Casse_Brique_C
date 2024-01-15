@@ -1,4 +1,16 @@
-"C:\Users\mathi\Cours ENIGMA\C\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Users/mathi/Cours ENIGMA/C/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S "C:\Users\mathi\Cours ENIGMA\C\Dacacio_Mathis_Casse_Brique" -B "C:\Users\mathi\Cours ENIGMA\C\Dacacio_Mathis_Casse_Brique\cmake-build-debug"
--- Configuring done (0.4s)
+"C:\Users\mathi\Cours ENIGMA\C\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Users/mathi/Cours ENIGMA/C/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S "C:\Users\mathi\Cours ENIGMA\C\Dacacio_Mathis_Casse_Brique\Dacacio_Mathis_Casse_Brique" -B "C:\Users\mathi\Cours ENIGMA\C\Dacacio_Mathis_Casse_Brique\Dacacio_Mathis_Casse_Brique\cmake-build-debug"
+-- The C compiler identification is GNU 13.1.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Users/mathi/Cours ENIGMA/C/CLion 2023.2.2/bin/mingw/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE  
+-- Found SDL2: mingw32;-mwindows;C:/Users/mathi/Cours ENIGMA/C/SDL2-devel-2.28.5-mingw/SDL2-2.28.5/x86_64-w64-mingw32/lib/libSDL2main.a;C:/Users/mathi/Cours ENIGMA/C/SDL2-devel-2.28.5-mingw/SDL2-2.28.5/x86_64-w64-mingw32/lib/libSDL2.dll.a  
+-- Found SDL2_image: C:/Users/mathi/Cours ENIGMA/C/SDL2_image-2.6.3/SDL2_image-2.6.3/x86_64-w64-mingw32/lib/libSDL2_image.dll.a (found version "2.6.3") 
+-- Found SDL2_ttf: C:/Users/mathi/Cours ENIGMA/C/SDL2_ttf-devel-2.20.2-mingw/SDL2_ttf-2.20.2/x86_64-w64-mingw32/lib/libSDL2_ttf.dll.a (found version "2.20.2") 
+-- Configuring done (1.8s)
 -- Generating done (0.0s)
--- Build files have been written to: C:/Users/mathi/Cours ENIGMA/C/Dacacio_Mathis_Casse_Brique/cmake-build-debug
+-- Build files have been written to: C:/Users/mathi/Cours ENIGMA/C/Dacacio_Mathis_Casse_Brique/Dacacio_Mathis_Casse_Brique/cmake-build-debug

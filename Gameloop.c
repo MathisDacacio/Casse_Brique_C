@@ -32,18 +32,23 @@ int gameloop(SDL_Renderer *renderer, SDL_Window* window) {
     SDL_Color color_menu = {255, 255, 255};
     SDL_Surface *surface = TTF_RenderText_Blended(font, "Casse Brique", color_menu);
     SDL_Texture *texture_tilte = SDL_CreateTextureFromSurface(renderer, surface);
+    SDL_FreeSurface(surface);
 
     surface = IMG_Load("..\\assets\\Main_menu_fond.png");
     SDL_Texture *texture_fond_menu = SDL_CreateTextureFromSurface(renderer,surface);
+    SDL_FreeSurface(surface);
 
     surface = IMG_Load("..\\assets\\Play_button.png");
     SDL_Texture *texture_play_button = SDL_CreateTextureFromSurface(renderer,surface);
+    SDL_FreeSurface(surface);
 
     surface = IMG_Load("..\\assets\\settings.png");
     SDL_Texture *texture_settings_button = SDL_CreateTextureFromSurface(renderer,surface);
+    SDL_FreeSurface(surface);
 
     surface = IMG_Load("..\\assets\\exit.png");
     SDL_Texture *texture_exit_button = SDL_CreateTextureFromSurface(renderer,surface);
+    SDL_FreeSurface(surface);
 
     //Settings
     int width_return_menu = 75 * my_window.width / 1080;
@@ -57,21 +62,27 @@ int gameloop(SDL_Renderer *renderer, SDL_Window* window) {
     SDL_Color color_settings = {0, 0, 0};
     surface = TTF_RenderText_Blended(font, "Settings", color_settings);
     SDL_Texture *texture_settings = SDL_CreateTextureFromSurface(renderer, surface);
+    SDL_FreeSurface(surface);
 
     surface = IMG_Load("..\\assets\\retour_menu.png");
     SDL_Texture *texture_retour_menu_button = SDL_CreateTextureFromSurface(renderer,surface);
+    SDL_FreeSurface(surface);
 
     surface = IMG_Load("..\\assets\\fond_settings.png");
     SDL_Texture *texture_fond_settings = SDL_CreateTextureFromSurface(renderer,surface);
+    SDL_FreeSurface(surface);
 
     surface = IMG_Load("..\\assets\\Couleur_violet.png");
     SDL_Texture *texture_purple_button = SDL_CreateTextureFromSurface(renderer,surface);
+    SDL_FreeSurface(surface);
 
     surface = IMG_Load("..\\assets\\Couleur_verte.png");
     SDL_Texture *texture_green_button = SDL_CreateTextureFromSurface(renderer,surface);
+    SDL_FreeSurface(surface);
 
     surface = IMG_Load("..\\assets\\Couleur_jaune.png");
     SDL_Texture *texture_yellow_button = SDL_CreateTextureFromSurface(renderer,surface);
+    SDL_FreeSurface(surface);
 
     bool game = false;
     bool settings = false;
