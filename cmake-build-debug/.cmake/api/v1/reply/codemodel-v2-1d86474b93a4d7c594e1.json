@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Dacacio_Mathis_Casse_Brique",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Dacacio_Mathis_Casse_Brique::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Dacacio_Mathis_Casse_Brique-Debug-297ab2574ab6c1f8706d.json",
+					"name" : "Dacacio_Mathis_Casse_Brique",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/mathi/Cours ENIGMA/C/Dacacio_Mathis_Casse_Brique/cmake-build-debug",
+		"source" : "C:/Users/mathi/Cours ENIGMA/C/Dacacio_Mathis_Casse_Brique"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
